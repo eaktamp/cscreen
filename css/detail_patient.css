@@ -1,0 +1,100 @@
+html,
+  body,
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+        font-family: 'Prompt', sans-serif;
+  }
+  .pic {
+    width: 100%;
+    padding: auto;
+    margin: auto;
+    text-align: center;
+    border-radius: 50%;
+  }
+  .sphere {
+    width: 200px;
+    height: 200px;
+    line-height: 200px;
+    text-align: center;
+    color: #FFF;
+    margin: 2% auto;
+    border-radius: 100%;
+    box-shadow: inset 0 0 80px green;
+  }
+.show-color{
+    background-color: #D4F5D3;
+}
+.show-color.hhh{
+    background-color:#000;
+    border-radius: 8px;
+    border-radius: 8px;
+    
+}
+.useradd{
+    font-size: 12px;
+    text-align: center;
+    color: #99A3A4;
+}
+.uk{    
+   color: #707B7C;
+   font-weight: bold;
+}
+.up{
+    color: #707B7C;
+    font-weight: bold;
+}
+.list{
+    border-radius: 20px;
+}
+.fon_s{
+    font-size: 1.4em;
+}
+.w3-opacity{
+    font-size: 1.6em;
+}
+.w3-text-teal{
+    font-size: 1.6em;
+    font-weight: bold;
+}
+
+.grey-hh{
+    font-size: 2.8em;
+    font-weight: bold;
+}
+.cen{
+    text-align: center;
+}
+.patient_s{
+    font-size: 1.0em;
+    font-weight: bold;
+}
+.last_ovst{
+    color: #fff;
+}
+.num_row{
+ color: #fff;
+}
+.font-in{
+    font-family: 'Prompt', sans-serif;
+    color: #1C2833;
+    font-weight: bold;
+}
+
+.pat{
+    font-size: 1.4em;
+    font-weight: bold;
+    color: #0E6251;
+}
+.age{
+    color:#fff;
+    font-weight: bold;
+    background-color: #081d8C;
+    border-radius: 8px;
+}
+
+
+

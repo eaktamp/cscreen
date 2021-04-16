@@ -1,0 +1,104 @@
+body{
+    font-family: 'Kanit', sans-serif;
+}
+.inp{
+    height:300px;
+    width:550px;
+    font-size: 22em;
+    text-align: center;
+}
+.btn {
+    margin: 1%;
+    width: 80px;
+    height: 80px;
+    background-color: #0CA04B;
+    border: none;
+    color: white;
+    padding: 4px;
+    font-size: 4em;
+    cursor: pointer; 
+    font-weight: bold;
+  }
+  .btn:hover {
+    margin: 1%;
+    width: 80px;
+    height: 80px;
+    background-color: #000;
+    border: none;
+    color: white;
+    padding: 4px;
+    font-size: 4em;
+    cursor: pointer; 
+    font-weight: bold;
+  }
+  .btn-reset {
+    margin: 1%;
+    width: 200px;
+    /* height: 80px; */
+    background-color: #000;
+    border: none;
+    color: white;
+    padding: 4px;
+    font-size: 3em;
+    cursor: pointer; 
+    font-weight: bold;
+  }
+  .btn-reset:hover {
+    margin: 1%;
+    width: 200px;
+    /* height: 80px; */
+    background-color:#320107;
+    border: none;
+    color: #FFF;
+    padding: 4px;
+    font-size: 3em;
+    cursor: pointer; 
+    font-weight: bold;
+  }
+
+  .btn-submit {
+    margin: 1%;
+    width: 300px;
+    /* height: 80px; */
+    background-color: #0D2BB5;
+    border: none;
+    color: white;
+    padding: 4px;
+    font-size: 3em;
+    cursor: pointer; 
+    font-weight: bold;
+  }
+  .btn-submit:hover {
+    margin: 1%;
+    width: 300px;
+    /* height: 80px; */
+    background-color: #51088A;
+    border: none;
+    color: #FFF;
+    padding: 4px;
+    font-size: 3em;
+    cursor: pointer; 
+    font-weight: bold;
+  }
+
+  .hover_img:hover{
+    background-color: #D5D8DC;
+    border-radius: 12px;
+  }
+  .fr_main{
+    /* background-color: #000; */
+    color: #000;
+    text-align: center;
+    border-radius: 8px;
+    font-weight: bold;
+  }
+  .fr_sub{
+    /* background-color: #000; */
+    color: #000;
+    text-align: left;
+    border-radius: 8px;
+    font-weight: bold;
+  }
+  .box-input{
+    /* background-color: #0CA04B; */
+  }

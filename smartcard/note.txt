@@ -1,0 +1,18 @@
+cd C:\javademon
+
+java -jar javadaemon.jar 8080
+
+Config firefox
+
+การ config firefox ให้เปิดกล้องโดยที่ผู้ใช้ไม่ต้องกดยอมรับ
+1. ใน address ให้พิมพ์ about:config แล้วกด Enter
+2. ในช่อง Search ให้พิมพ์ media.navigator.permission.disabled
+แล้ว double click ตรงช่องผลลัพท์ เปลี่ยน Value จาก false เป้น true
+
+c:\javademon>java -jar javadaemon.jar 8080
+c:\javademon> attrib -h picture
+c:\javademon> attrib -h picture
+
+
+localhost:8080/smartcard/data
+localhost:8080/smartcard/picture
